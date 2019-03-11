@@ -1,0 +1,8 @@
+This mod aims to add themes for vanilla features that don't already have unique themes. Most bosses will sometime recieve their own themes exclusive to this mod!
+All themes (and code) done by Turquoise.
+
+Current boss themes:
+-Queen Bee
+-Mechanical Bosses
+-Duke Fishron
+-King Slime
